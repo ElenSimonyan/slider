@@ -1,0 +1,15 @@
+#Range{
+    width: 80%;
+}
+.main{
+    position: relative;
+    margin: auto;
+    width: 90%;
+}
+.main .value {
+    position: absolute;
+    color: black;
+    min-width: 100px;
+    right: 10%;
+    top: -7px;
+}
